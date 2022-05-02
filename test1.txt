@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 72D0-BEDB
+
+ Directory of C:\Users\swath\OneDrive\Desktop\MyProject
+
+05/02/2022  02:31 AM    <DIR>          .
+05/02/2022  02:31 AM    <DIR>          ..
+05/02/2022  02:31 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175,904,022,528 bytes free
